@@ -1,0 +1,14 @@
+/Users/eliserochaix/CSharp/Echo/bin/Debug/net9.0/Echo
+/Users/eliserochaix/CSharp/Echo/bin/Debug/net9.0/Echo.deps.json
+/Users/eliserochaix/CSharp/Echo/bin/Debug/net9.0/Echo.runtimeconfig.json
+/Users/eliserochaix/CSharp/Echo/bin/Debug/net9.0/Echo.dll
+/Users/eliserochaix/CSharp/Echo/bin/Debug/net9.0/Echo.pdb
+/Users/eliserochaix/CSharp/Echo/obj/Debug/net9.0/Echo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eliserochaix/CSharp/Echo/obj/Debug/net9.0/Echo.AssemblyInfoInputs.cache
+/Users/eliserochaix/CSharp/Echo/obj/Debug/net9.0/Echo.AssemblyInfo.cs
+/Users/eliserochaix/CSharp/Echo/obj/Debug/net9.0/Echo.csproj.CoreCompileInputs.cache
+/Users/eliserochaix/CSharp/Echo/obj/Debug/net9.0/Echo.dll
+/Users/eliserochaix/CSharp/Echo/obj/Debug/net9.0/refint/Echo.dll
+/Users/eliserochaix/CSharp/Echo/obj/Debug/net9.0/Echo.pdb
+/Users/eliserochaix/CSharp/Echo/obj/Debug/net9.0/Echo.genruntimeconfig.cache
+/Users/eliserochaix/CSharp/Echo/obj/Debug/net9.0/ref/Echo.dll

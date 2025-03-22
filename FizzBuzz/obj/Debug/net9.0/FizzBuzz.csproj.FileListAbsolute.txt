@@ -1,0 +1,14 @@
+/Users/eliserochaix/CSharp/FizzBuzz/bin/Debug/net9.0/FizzBuzz
+/Users/eliserochaix/CSharp/FizzBuzz/bin/Debug/net9.0/FizzBuzz.deps.json
+/Users/eliserochaix/CSharp/FizzBuzz/bin/Debug/net9.0/FizzBuzz.runtimeconfig.json
+/Users/eliserochaix/CSharp/FizzBuzz/bin/Debug/net9.0/FizzBuzz.dll
+/Users/eliserochaix/CSharp/FizzBuzz/bin/Debug/net9.0/FizzBuzz.pdb
+/Users/eliserochaix/CSharp/FizzBuzz/obj/Debug/net9.0/FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eliserochaix/CSharp/FizzBuzz/obj/Debug/net9.0/FizzBuzz.AssemblyInfoInputs.cache
+/Users/eliserochaix/CSharp/FizzBuzz/obj/Debug/net9.0/FizzBuzz.AssemblyInfo.cs
+/Users/eliserochaix/CSharp/FizzBuzz/obj/Debug/net9.0/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/eliserochaix/CSharp/FizzBuzz/obj/Debug/net9.0/FizzBuzz.dll
+/Users/eliserochaix/CSharp/FizzBuzz/obj/Debug/net9.0/refint/FizzBuzz.dll
+/Users/eliserochaix/CSharp/FizzBuzz/obj/Debug/net9.0/FizzBuzz.pdb
+/Users/eliserochaix/CSharp/FizzBuzz/obj/Debug/net9.0/FizzBuzz.genruntimeconfig.cache
+/Users/eliserochaix/CSharp/FizzBuzz/obj/Debug/net9.0/ref/FizzBuzz.dll

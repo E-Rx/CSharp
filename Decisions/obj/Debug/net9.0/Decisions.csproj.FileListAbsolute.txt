@@ -1,0 +1,14 @@
+/Users/eliserochaix/C#/Decisions/obj/Debug/net9.0/Decisions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eliserochaix/C#/Decisions/obj/Debug/net9.0/Decisions.AssemblyInfoInputs.cache
+/Users/eliserochaix/C#/Decisions/obj/Debug/net9.0/Decisions.AssemblyInfo.cs
+/Users/eliserochaix/C#/Decisions/obj/Debug/net9.0/Decisions.csproj.CoreCompileInputs.cache
+/Users/eliserochaix/C#/Decisions/bin/Debug/net9.0/Decisions
+/Users/eliserochaix/C#/Decisions/bin/Debug/net9.0/Decisions.deps.json
+/Users/eliserochaix/C#/Decisions/bin/Debug/net9.0/Decisions.runtimeconfig.json
+/Users/eliserochaix/C#/Decisions/bin/Debug/net9.0/Decisions.dll
+/Users/eliserochaix/C#/Decisions/bin/Debug/net9.0/Decisions.pdb
+/Users/eliserochaix/C#/Decisions/obj/Debug/net9.0/Decisions.dll
+/Users/eliserochaix/C#/Decisions/obj/Debug/net9.0/refint/Decisions.dll
+/Users/eliserochaix/C#/Decisions/obj/Debug/net9.0/Decisions.pdb
+/Users/eliserochaix/C#/Decisions/obj/Debug/net9.0/Decisions.genruntimeconfig.cache
+/Users/eliserochaix/C#/Decisions/obj/Debug/net9.0/ref/Decisions.dll

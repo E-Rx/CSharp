@@ -1,0 +1,14 @@
+/Users/eliserochaix/CSharp/Arrays/bin/Debug/net9.0/Arrays
+/Users/eliserochaix/CSharp/Arrays/bin/Debug/net9.0/Arrays.deps.json
+/Users/eliserochaix/CSharp/Arrays/bin/Debug/net9.0/Arrays.runtimeconfig.json
+/Users/eliserochaix/CSharp/Arrays/bin/Debug/net9.0/Arrays.dll
+/Users/eliserochaix/CSharp/Arrays/bin/Debug/net9.0/Arrays.pdb
+/Users/eliserochaix/CSharp/Arrays/obj/Debug/net9.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eliserochaix/CSharp/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfoInputs.cache
+/Users/eliserochaix/CSharp/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfo.cs
+/Users/eliserochaix/CSharp/Arrays/obj/Debug/net9.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/eliserochaix/CSharp/Arrays/obj/Debug/net9.0/Arrays.dll
+/Users/eliserochaix/CSharp/Arrays/obj/Debug/net9.0/refint/Arrays.dll
+/Users/eliserochaix/CSharp/Arrays/obj/Debug/net9.0/Arrays.pdb
+/Users/eliserochaix/CSharp/Arrays/obj/Debug/net9.0/Arrays.genruntimeconfig.cache
+/Users/eliserochaix/CSharp/Arrays/obj/Debug/net9.0/ref/Arrays.dll

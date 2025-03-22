@@ -1,0 +1,14 @@
+/Users/eliserochaix/C#/Iteration/bin/Debug/net9.0/Iteration
+/Users/eliserochaix/C#/Iteration/bin/Debug/net9.0/Iteration.deps.json
+/Users/eliserochaix/C#/Iteration/bin/Debug/net9.0/Iteration.runtimeconfig.json
+/Users/eliserochaix/C#/Iteration/bin/Debug/net9.0/Iteration.dll
+/Users/eliserochaix/C#/Iteration/bin/Debug/net9.0/Iteration.pdb
+/Users/eliserochaix/C#/Iteration/obj/Debug/net9.0/Iteration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eliserochaix/C#/Iteration/obj/Debug/net9.0/Iteration.AssemblyInfoInputs.cache
+/Users/eliserochaix/C#/Iteration/obj/Debug/net9.0/Iteration.AssemblyInfo.cs
+/Users/eliserochaix/C#/Iteration/obj/Debug/net9.0/Iteration.csproj.CoreCompileInputs.cache
+/Users/eliserochaix/C#/Iteration/obj/Debug/net9.0/Iteration.dll
+/Users/eliserochaix/C#/Iteration/obj/Debug/net9.0/refint/Iteration.dll
+/Users/eliserochaix/C#/Iteration/obj/Debug/net9.0/Iteration.pdb
+/Users/eliserochaix/C#/Iteration/obj/Debug/net9.0/Iteration.genruntimeconfig.cache
+/Users/eliserochaix/C#/Iteration/obj/Debug/net9.0/ref/Iteration.dll
