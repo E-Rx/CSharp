@@ -29,7 +29,7 @@ The goal is to get familiar with the syntax, key concepts, and best practices of
 1. **Clone the repo**  
    ```bash
    git clone https://github.com/E-Rx/Csharp.git
-   cd repo-name
+   cd CSharp
    ```
 2. **Open with Visual Studio or VS Code**  
 3. **Run a file**  
